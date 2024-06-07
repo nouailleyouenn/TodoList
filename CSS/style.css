@@ -1,0 +1,60 @@
+h1, h2 {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+form{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container {
+    margin: 0 auto;
+}
+.card {
+    margin: 0 auto;
+}
+
+footer{
+    text-align: center;
+}
+
+html {
+    margin-top: 20px;
+}
+
+.btn {
+    width: 100px;
+}
+
+
+.logo{
+    height: auto;
+    width: 200px;
+}
+
+.checked {
+    background-color: darkgrey;
+    text-decoration: line-through;
+}
+
+.image-button {
+    border: none;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+}
+
+.image-button img {
+    width: 100px;
+    height: auto;
+}
+
+.font_size_10, .date {
+    font-size: 15px;
+    margin-top: 10px;
+}
